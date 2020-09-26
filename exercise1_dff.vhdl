@@ -14,7 +14,7 @@ begin
 		if (S = '0') then 
 			Q <= '1';
 		elsif (R = '0') then
-			Q <= '0'
+			Q <= '0';
 		elsif (falling_edge(CLK)) then
 			Q <= D;
 		end if;
