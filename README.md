@@ -5,4 +5,7 @@ This repo contains modified code for Digital System Design at Stevens Institute 
 # Lab 3: Bouncing Ball
 Contains my modified version of the ball.vhd file to change the color, size, and motion of the ball
 
+# Lab 4: Hexadecimal Calculator
+Contains modifications to remove leading zeros and allow subtraction
+
 
